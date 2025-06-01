@@ -6,55 +6,38 @@
     <p style="text-align: justify;">Mi experiencia y conocimientos se encuentran basados en diversas materias dentro del mundo tecnológico, otorgándome un carácter multidisciplinar. Actualmente, he encontrado la rama o materia donde deseo desarrollar mi trayectoria profesional y personal, hablo de la programación.</p>
     <p style="text-align: justify;">Por otro lado, los conocimientos aprendidos en publicidad, diseño, marketing y electrónica los intento trasladar en la materia actual, intentando materializar todos mis objetivos en proyectos personales donde aplicar mis hobbies. Aunque el camino para convertirse en developer es largo, cada día estoy más cerca de conseguirlo y eso me anima a seguir profesionalizándome.</p>
 </div>
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/edujimser/edujimser/refs/heads/main/SVG/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
 <h2>📚 | Educación</h2>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
+        <img src="https://raw.githubusercontent.com/edujimser/edujimser/refs/heads/main/IMG/image-FuZJHGb3YtpHaGaX4kP1U.png" width="70"/><br>
         <strong>Desarrollador</strong><br><strong>Aplicaciones Web</strong>
+         <p><i>Ciclo Superior</i></p>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
+        <img src="https://raw.githubusercontent.com/edujimser/edujimser/refs/heads/main/IMG/image-wZo-kg4t0cdpgO768r8aN.png" width="70"/><br>
+        <strong>Publicidad y RRPP</strong>
+         <p><i>Grado</i></p>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
+        <img src="https://raw.githubusercontent.com/edujimser/edujimser/refs/heads/main/IMG/image-YguRdPSzx_ogDKm9wjcR1.png" width="70"/><br>
+        <strong>Robótica</strong>
+         <p><i>Ciclo Superior</i></p>
+      </td>
+    <td align="center">
+        <img src="https://raw.githubusercontent.com/edujimser/edujimser/refs/heads/main/IMG/image-fBzMyPbPgSss0PFyXnanW.png" width="70"/><br>
+        <strong>Electricidad y Automatismos</strong>
+         <p><i>Ciclo Medio</i></p>
+      </td>
+    <td align="center">
+        <img src="https://raw.githubusercontent.com/edujimser/edujimser/refs/heads/main/IMG/image-GeKqY6mew0J9NDpVgwiB7.png" width="70"/><br>
+        <strong>Base de datos</strong>
+         <p><i>FP Nivel 3</i></p>
       </td>
     </tr>
   </table>
-</div>
-
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
-  </a>
-</p>
-
-<h2>⭐ | Github Stats </h2>
-
-<div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>

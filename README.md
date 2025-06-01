@@ -1,10 +1,10 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Qué+tal?+👋;Mi+Nombre+es+Eduardo+Jiménez+Serrato!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=950&height=70&duration=4500&color=000000&lines=Qué+tal?;Mi+Nombre+es+Eduardo+Jiménez+Serrato!" />
 
-<div style="text-align: center;">
+<div style="align: center;">
     <h2>📖 | Acerca de mí</h2>
-    <p>🌐 Mi experiencia y conocimientos se encuentran basados en diversas materias dentro del mundo tecnológico, otorgándome un carácter multidisciplinar. Actualmente, he encontrado la rama o materia donde deseo desarrollar mi trayectoria profesional y personal, hablo de la programación.</p>
-    <p>Por otro lado, los conocimientos aprendidos en publicidad, diseño, marketing y electrónica los intento trasladar en la materia actual. Intentando materializar todos mis objetivos en proyectos personales donde aplicar mis hobbies. Aunque el camino para convertirse en developer es largo cada día estoy más cerca       de conseguirlo y eso me anima a seguir profesionalizándome.</p>
+    <p style="text-align: justify;">Mi experiencia y conocimientos se encuentran basados en diversas materias dentro del mundo tecnológico, otorgándome un carácter multidisciplinar. Actualmente, he encontrado la rama o materia donde deseo desarrollar mi trayectoria profesional y personal, hablo de la programación.</p>
+    <p style="text-align: justify;">Por otro lado, los conocimientos aprendidos en publicidad, diseño, marketing y electrónica los intento trasladar en la materia actual, intentando materializar todos mis objetivos en proyectos personales donde aplicar mis hobbies. Aunque el camino para convertirse en developer es largo, cada día estoy más cerca de conseguirlo y eso me anima a seguir profesionalizándome.</p>
 </div>
 
 <div align="center">
@@ -13,8 +13,7 @@
   <br/>
 </div>
 
-<h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
+<h2>📚 | Educación</h2>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
@@ -23,8 +22,7 @@
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
         <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
         <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+        <strong>Desarrollador</strong><br><strong>Aplicaciones Web</strong>
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>

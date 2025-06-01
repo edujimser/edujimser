@@ -1,21 +1,8 @@
-<div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
-<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
-</div>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Eduardo+Jiménez+Serrato!;" />
 
 <h2>📖 | About me</h2> 
-🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
+🌐 Mi experiencia y conocimientos se encuentran basados en diversas materias dentro del mundo tecnológico, otorgándome un carácter multidisciplinar. Actualmente, he encontrado la rama o materia donde deseo desarrollar mi trayectoria profesional y personal, hablo de la programación. Por otro lado, los conocimientos aprendidos en publicidad, diseño, marketing y electrónica los intento trasladar en la materia actual. Intentando materializar todos mis objetivos en proyectos personales donde aplicar mis hobbies. Aunque el camino para convertirse en developer es largo cada día estoy más cerca de conseguirlo y eso me anima a seguir profesionalizandome.
 
 <div align="center">
   <br>

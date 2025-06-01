@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Qué+tal?+👋;Mi+Nombre+es+Eduardo+Jiménez+Serrato!" />
 
 <div style="text-align: center;">
-    <h2>📖 | About me</h2>
+    <h2>📖 | Acerca de mí</h2>
     <p>🌐 Mi experiencia y conocimientos se encuentran basados en diversas materias dentro del mundo tecnológico, otorgándome un carácter multidisciplinar. Actualmente, he encontrado la rama o materia donde deseo desarrollar mi trayectoria profesional y personal, hablo de la programación.</p>
     <p>Por otro lado, los conocimientos aprendidos en publicidad, diseño, marketing y electrónica los intento trasladar en la materia actual. Intentando materializar todos mis objetivos en proyectos personales donde aplicar mis hobbies. Aunque el camino para convertirse en developer es largo cada día estoy más cerca       de conseguirlo y eso me anima a seguir profesionalizándome.</p>
 </div>
